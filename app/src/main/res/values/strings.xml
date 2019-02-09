@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidActive ORM</string>
+    <string name="productName">Product Name</string>
+    <string name="save_record">Save Record</string>
+    <string name="product_name">Product Name</string>
+    <string name="refresh">Refresh</string>
+</resources>
